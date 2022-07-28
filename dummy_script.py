@@ -1,5 +1,5 @@
 def main():
-    print("now it will print this message")
+    print("This message will get printed once the code is committed on git")
 
 if __name__ == "__main__":
     main()
